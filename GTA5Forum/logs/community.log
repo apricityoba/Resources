@@ -1,0 +1,38 @@
+2021-12-25 21:57:59.811  INFO 9072 --- [restartedMain] t.a.forum.CommunityApplication           : Starting CommunityApplication on LAPTOP-SHML6U0H with PID 9072 (E:\idea_workspace\GTA5Forum\target\classes started by apric in E:\idea_workspace\GTA5Forum)
+2021-12-25 21:57:59.815  INFO 9072 --- [restartedMain] t.a.forum.CommunityApplication           : No active profile set, falling back to default profiles: default
+2021-12-25 21:57:59.848  INFO 9072 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-25 21:57:59.848  INFO 9072 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-25 21:58:00.681  INFO 9072 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$709c8aa2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-12-25 21:58:00.944  INFO 9072 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 443 (https) 80 (http)
+2021-12-25 21:58:00.966  INFO 9072 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-25 21:58:00.966  INFO 9072 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-12-25 21:58:01.052  INFO 9072 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-25 21:58:01.052  INFO 9072 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1203 ms
+2021-12-25 21:58:01.650  INFO 9072 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-12-25 21:58:01.713  INFO 9072 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-12-25 21:58:01.740  INFO 9072 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-12-25 21:58:01.797  INFO 9072 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-12-25 21:58:01.838  INFO 9072 --- [restartedMain] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2021-12-25 21:58:01.916  INFO 9072 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-12-25 21:58:01.928  INFO 9072 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-12-25 21:58:01.953  INFO 9072 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-12-25 21:58:02.043  INFO 9072 --- [restartedMain] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: insertUsingPOST_1
+2021-12-25 21:58:02.047  INFO 9072 --- [restartedMain] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: commentListUsingGET_1
+2021-12-25 21:58:02.050  INFO 9072 --- [restartedMain] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: insertUsingPOST_2
+2021-12-25 21:58:02.053  INFO 9072 --- [restartedMain] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: commentListUsingGET_2
+2021-12-25 21:58:02.065  INFO 9072 --- [scheduling-1] t.a.forum.schedule.HotTagTasks           : hotTagSchedule start Sat Dec 25 21:58:02 CST 2021
+2021-12-25 21:58:02.084  WARN 9072 --- [scheduling-1] com.zaxxer.hikari.HikariConfig           : HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2021-12-25 21:58:02.085  INFO 9072 --- [scheduling-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-12-25 21:58:02.337  INFO 9072 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 443 (https) 80 (http) with context path ''
+2021-12-25 21:58:02.339  INFO 9072 --- [restartedMain] t.a.forum.CommunityApplication           : Started CommunityApplication in 2.724 seconds (JVM running for 3.401)
+2021-12-25 21:58:02.400  INFO 9072 --- [scheduling-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-12-25 21:58:02.425  INFO 9072 --- [scheduling-1] t.a.forum.schedule.HotTagTasks           : hotTagSchedule stop Sat Dec 25 21:58:02 CST 2021
+2021-12-25 21:58:02.425  INFO 9072 --- [scheduling-1] t.a.forum.schedule.LoginUserTasks        : loginUserSchedule start Sat Dec 25 21:58:02 CST 2021
+2021-12-25 21:58:02.429  INFO 9072 --- [scheduling-1] t.a.forum.schedule.LoginUserTasks        : loginUserSchedule stop Sat Dec 25 21:58:02 CST 2021
+2021-12-25 21:58:20.376  INFO 9072 --- [https-jsse-nio-443-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-25 21:58:20.377  INFO 9072 --- [https-jsse-nio-443-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-25 21:58:20.381  INFO 9072 --- [https-jsse-nio-443-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2021-12-25 22:08:00.003  INFO 9072 --- [scheduling-1] t.a.forum.schedule.NewsUpdateTasks       : updateYuleNewsSchedule start Sat Dec 25 22:08:00 CST 2021
+2021-12-25 22:08:03.761  INFO 9072 --- [scheduling-1] t.a.forum.schedule.NewsUpdateTasks       : updateYuleNewsSchedule stop Sat Dec 25 22:08:03 CST 2021
+2021-12-25 22:08:03.762  INFO 9072 --- [scheduling-1] t.a.forum.schedule.LoginUserTasks        : loginUserSchedule start Sat Dec 25 22:08:03 CST 2021
+2021-12-25 22:08:03.765  INFO 9072 --- [scheduling-1] t.a.forum.schedule.LoginUserTasks        : loginUserSchedule stop Sat Dec 25 22:08:03 CST 2021

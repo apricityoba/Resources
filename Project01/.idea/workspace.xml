@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d429adf-5e9e-49bc-aa77-3a351f5b04db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files (x86)\apache-maven-3.8.3\repository" />
+        <option name="mavenHome" value="D:/Program Files (x86)/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\Program Files (x86)\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22mMFfiN6Byk1adyVvSXtDEQPUc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorTest.testAdd">
+    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.junit.CalculatorTest" />
+      <module name="Project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest.testAdd" />
+        <item itemvalue="Application.CalculatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d429adf-5e9e-49bc-aa77-3a351f5b04db" name="Default Changelist" comment="" />
+      <created>1640438206617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640438206617</updated>
+      <workItem from="1640438208570" duration="190000" />
+      <workItem from="1640438418296" duration="94000" />
+      <workItem from="1640438554948" duration="581000" />
+      <workItem from="1640443541925" duration="4127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="268" key="#com.intellij.ide.util.MemberChooser" timestamp="1640455500011">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="765" y="268" key="#com.intellij.ide.util.MemberChooser/0.24.1920.1056@0.24.1920.1056" timestamp="1640455500011" />
+    <state x="781" y="246" key="FileChooserDialogImpl" timestamp="1640439137365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="246" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1640439137365" />
+    <state width="1183" height="151" key="GridCell.Tab.0.bottom" timestamp="1640444426015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1183" height="151" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1640444426015" />
+    <state width="1183" height="151" key="GridCell.Tab.0.center" timestamp="1640444426015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1183" height="151" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1640444426015" />
+    <state width="1183" height="151" key="GridCell.Tab.0.left" timestamp="1640444426015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1183" height="151" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1640444426015" />
+    <state width="1183" height="151" key="GridCell.Tab.0.right" timestamp="1640444426015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1183" height="151" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1640444426015" />
+    <state x="502" y="133" key="SettingsEditor" timestamp="1640444413374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="133" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1640444413374" />
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1640438211163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1640438211163" />
+    <state x="671" y="372" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1640444348384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="372" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1640444348384" />
+    <state x="618" y="221" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1640452788518">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="618" y="221" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.24.1920.1056@0.24.1920.1056" timestamp="1640452788518" />
+  </component>
+</project>
